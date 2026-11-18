@@ -1,0 +1,826 @@
+order_id,customer_id,order_date,product,quantity,price,city,segment,rating
+A5441,C260,2025-09-12,Face Cream,1.0,280 EGP,Mansoura,New,5.0
+A5172,C251,2025-01-01,Desk Lamp,3.0,320 EGP,Mansoura,Returning,3.0
+A5557,C233,2025-10-16,Headphones,2.0,450 EGP,Cairo,Returning,4.0
+A5414,C166,2025-10-08,Headphones,3.0,450 EGP, Mansoura ,Returning,5.0
+A5608,C271,2025-04-27,Sneakers,1.0,800 EGP,Giza,VIP,5.0
+A5540,C278,2025-03-22,Bedding Set,,700 EGP,Alexandria,VIP,4.0
+A5627,C248,2025-12-05,Smart Watch,2.0,1200 EGP,Giza,New,4.0
+A5015,C364,2025-07-21,Face Cream,2.0,280 EGP,Giza,Returning,5.0
+A5532,C171,2025-05-09,Bedding Set,1.0,700 EGP,,Returning,4.0
+A5402,C171,2025-09-26,Desk Lamp,2.0,320 EGP, alexandria ,New,3.0
+A5143,C347,2025-11-08,Face Cream,2.0,280 EGP,Cairo,New,5.0
+A5288,C263,2025-02-09,Perfume,3.0,650 EGP,Giza,New,3.0
+A5344,C113,2025-11-09,Perfume,1.0,650 EGP,Alexandria,New,2.0
+A5473,C363,2025-04-11,Face Cream,1.0,280 EGP,Cairo,Returning,5.0
+A5416,C222,2025-01-07,Face Cream,1.0,280 EGP,Cairo,VIP,4.0
+A5322,C166,2025-12-01,Jeans,2.0,600 EGP,Giza,New,
+A5458,C330,2025-09-07,Jeans,3.0,600 EGP,Cairo,New,5.0
+A5601,C336,2025-06-09,Jeans,2.0,600 EGP,alexandria,Returning,4.0
+A5593,C150,2025-08-10,Jeans,1.0,600 EGP,Cairo,Returning,2.0
+A5387,C404,2025-04-21,Perfume,2.0,650 EGP,Cairo,Returning,4.0
+A5741,C341,2025-11-01,Smart Watch,,1200 EGP,Giza,Returning,3.0
+A5137,C320,2025-05-07,Sneakers,1.0,800 EGP,Mansoura,Returning,5.0
+A5065,C131,2025-06-14,Smart Watch,2.0,1200 EGP,Cairo,Returning,2.0
+A5230,C251,2025-08-14,Jeans,1.0,600 EGP,Alexandria,New,4.0
+A5355,C108,2025-08-29,Desk Lamp,1.0,320 EGP,Mansoura,VIP,3.0
+A5457,C359,2025-02-02,Headphones,1.0,450 EGP, Cairo ,New,4.0
+A5438,C330,2025-09-04,Sneakers,1.0,800 EGP,Mansoura,Returning,2.0
+A5796,C260,2025-01-28,Headphones,1.0,450 EGP, Giza ,New,5.0
+A5569,C181,2025-09-25,Sneakers,1.0,800 EGP,Cairo,Returning,4.0
+A5020,C108,2025-09-08,Bedding Set,1.0,700 EGP,Cairo,Returning,1.0
+A5556,C331,2025-04-15,Face Cream,1.0,280 EGP,Alexandria,Returning,5.0
+A5068,C230,2025-11-26,Face Cream,1.0,280 EGP,Mansoura,Returning,5.0
+A5573,C145,2025-02-02,Smart Watch,1.0,1200 EGP,Giza,New,4.0
+A5232,C366,2025-11-27,Desk Lamp,1.0,320 EGP,Alexandria,New,4.0
+A5141,C386,2025-10-24,Jeans,1.0,600 EGP,Alexandria,Returning,3.0
+A5436,C180,2025-07-17,Headphones,1.0,450 EGP,Cairo,New,
+A5580,C411,2025-08-23,Smart Watch,1.0,1200 EGP,Cairo,New,4.0
+A5327,C297,2025-11-06,Face Cream,2.0,280 EGP,Cairo,Returning,4.0
+A5212,C195,2025-10-25,Desk Lamp,2.0,320 EGP,Mansoura,New,2.0
+A5135,C326,2025-02-23,Desk Lamp,1.0,320 EGP,giza,New,
+A5520,C159,2025-09-09,Smart Watch,1.0,1200 EGP,Giza,Returning,5.0
+A5481,C389,2025-06-16,Bedding Set,1.0,700 EGP,Alexandria,New,5.0
+A5530,C187,2025-08-25,Face Cream,1.0,280 EGP,Mansoura,New,4.0
+A5623,C114,2025-01-04,Sneakers,1.0,800 EGP,Cairo,New,3.0
+A5101,C198,2025-09-13,Bedding Set,1.0,700 EGP,Cairo,Returning,5.0
+A5597,C308,2025-04-15,Desk Lamp,1.0,320 EGP,Alexandria,New,4.0
+A5275,C140,2025-05-28,Jeans,1.0,600 EGP,Cairo,VIP,5.0
+A5752,C178,2025-05-03,Bedding Set,,700 EGP,Cairo,Returning,5.0
+A5205,C176,2025-12-13,Headphones,1.0,450 EGP,Giza,New,5.0
+A5650,C295,2025-01-04,Face Cream,1.0,280 EGP,Cairo,Returning,4.0
+A5236,C246,2025-07-07,Sneakers,1.0,800 EGP,Cairo,Returning,1.0
+A5146,C212,2025-06-21,Jeans,1.0,600 EGP,Giza,VIP,5.0
+A5185,C154,2025-12-10,Perfume,1.0,650 EGP,Alexandria,New,3.0
+A5427,C178,2025-10-28,Smart Watch,1.0,1200 EGP,Giza,New,5.0
+A5109,C269,2025-06-30,Jeans,2.0,600 EGP,mansoura,Returning,5.0
+A5142,C182,2025-03-29,Perfume,2.0,650 EGP,Cairo,New,3.0
+A5721,C184,2025-01-16,Bedding Set,1.0,700 EGP,Cairo,New,5.0
+A5743,C290,2025-05-17,Jeans,1.0,600 EGP,Cairo,Returning,4.0
+A5423,C231,2025-11-20,Face Cream,1.0,280 EGP, Alexandria ,Returning,3.0
+A5709,C302,2025-08-18,Smart Watch,1.0,1200 EGP,Cairo,Returning,4.0
+A5479,C332,2025-02-27,Face Cream,1.0,280 EGP,giza,Returning,3.0
+A5007,C188,2025-04-17,Perfume,,650 EGP,Cairo,VIP,5.0
+A5317,C265,2025-08-26,Headphones,1.0,450 EGP,Giza,New,4.0
+A5174,C179,2025-07-23,Perfume,2.0,650 EGP,Cairo,VIP,4.0
+A5576,C379,2025-11-17,Sneakers,1.0,800 EGP,Giza,Returning,5.0
+A5717,C361,2025-03-07,Sneakers,1.0,800 EGP,Alexandria,Returning,4.0
+A5067,C206,2025-01-02,Bedding Set,1.0,700 EGP,Alexandria,New,4.0
+A5702,C363,2025-03-06,Perfume,1.0,650 EGP,Cairo,New,5.0
+A5447,C410,2025-11-07,Smart Watch,2.0,1200 EGP,Cairo,VIP,4.0
+A5445,C392,2025-06-26,Sneakers,1.0,800 EGP,Mansoura,New,
+A5164,C355,2025-07-31,Perfume,1.0,650 EGP,Cairo,New,5.0
+A5257,C200,2025-05-08,Sneakers,2.0,800 EGP,Alexandria,New,4.0
+A5767,C270,2025-03-07,Desk Lamp,3.0,320 EGP,,New,4.0
+A5547,C307,2025-02-22,Headphones,1.0,450 EGP,Mansoura,Returning,1.0
+A5629,C399,2025-01-13,Sneakers,1.0,800 EGP,Mansoura,New,4.0
+A5193,C370,2025-10-02,Face Cream,2.0,280 EGP,Alexandria,Returning,4.0
+A5563,C100,2025-06-25,Face Cream,3.0,280 EGP,Alexandria,New,5.0
+A5646,C136,2025-04-15,Bedding Set,1.0,700 EGP,Cairo,New,2.0
+A5462,C369,2025-11-21,Desk Lamp,1.0,320 EGP,mansoura,New,4.0
+A5510,C107,2025-03-29,Headphones,1.0,450 EGP,Mansoura,Returning,2.0
+A5398,C342,2025-11-01,Sneakers,1.0,800 EGP,Cairo,Returning,4.0
+A5737,C407,2025-09-15,Bedding Set,1.0,700 EGP,Cairo,Returning,4.0
+A5793,C366,2025-05-31,Sneakers,1.0,800 EGP,Mansoura,Returning,4.0
+A5784,C168,2025-06-13,Face Cream,2.0,280 EGP,Giza,New,4.0
+A5735,C287,2025-11-01,Perfume,1.0,650 EGP,Cairo,VIP,5.0
+A5272,C412,2025-03-06,Face Cream,1.0,280 EGP,Cairo,New,2.0
+A5711,C121,2025-10-01,Perfume,1.0,650 EGP, Cairo ,VIP,4.0
+A5514,C338,2025-03-01,Smart Watch,1.0,1200 EGP,Alexandria,New,5.0
+A5787,C298,2025-04-23,Face Cream,2.0,280 EGP,Cairo,VIP,3.0
+A5008,C407,2025-07-31,Sneakers,2.0,800 EGP,Cairo,Returning,
+A5707,C165,2025-06-08,Desk Lamp,1.0,320 EGP,Alexandria,New,5.0
+A5615,C322,2025-06-14,Desk Lamp,1.0,320 EGP,Giza,Returning,4.0
+A5372,C269,2025-07-27,Perfume,2.0,650 EGP,Cairo,New,3.0
+A5248,C326,2025-02-24,Headphones,1.0,450 EGP,cairo,New,3.0
+A5128,C112,2025-09-20,Headphones,2.0,450 EGP,Giza,New,3.0
+A5471,C310,2025-02-08,Face Cream,1.0,280 EGP,Cairo,Returning,5.0
+A5062,C154,2025-03-01,Sneakers,1.0,800 EGP,Cairo,VIP,5.0
+A5018,C193,2025-10-24,Desk Lamp,1.0,320 EGP, Alexandria ,New,
+A5429,C264,2025-06-13,Bedding Set,2.0,700 EGP,Cairo,New,3.0
+A5335,C149,2025-02-06,Sneakers,2.0,800 EGP,Giza,VIP,3.0
+A5612,C376,2025-10-06,Sneakers,1.0,800 EGP,Alexandria,New,5.0
+A5318,C400,2025-07-23,Desk Lamp,3.0,320 EGP,Giza,New,4.0
+A5589,C265,2025-05-21,Perfume,3.0,650 EGP,Alexandria,Returning,5.0
+A5289,C324,2025-04-07,Headphones,1.0,450 EGP,Cairo,Returning,4.0
+A5792,C225,2025-02-05,Headphones,2.0,450 EGP,Giza,New,3.0
+A5365,C134,2025-04-28,Jeans,1.0,600 EGP,Cairo,VIP,5.0
+A5074,C391,2025-05-25,Sneakers,1.0,800 EGP,Cairo,Returning,4.0
+A5733,C395,2025-08-16,Face Cream,2.0,280 EGP,Cairo,New,3.0
+A5305,C327,2025-03-26,Sneakers,1.0,800 EGP,Giza,New,4.0
+A5400,C239,2025-02-17,Desk Lamp,1.0,320 EGP,Giza,New,4.0
+A5490,C332,2025-06-27,Sneakers,1.0,800 EGP,Cairo,Returning,3.0
+A5426,C408,2025-06-24,Smart Watch,2.0,1200 EGP,mansoura,New,5.0
+A5022,C323,2025-12-13,Perfume,1.0,650 EGP,alexandria,VIP,4.0
+A5182,C371,2025-07-26,Jeans,2.0,600 EGP,Giza,New,4.0
+A5537,C320,2025-03-08,Bedding Set,1.0,700 EGP,Cairo,New,4.0
+A5099,C418,2025-10-11,Sneakers,1.0,800 EGP,,New,3.0
+A5726,C303,2025-06-25,Headphones,1.0,450 EGP,Cairo,New,
+A5470,C392,2025-09-07,Smart Watch,2.0,1200 EGP,Giza,Returning,5.0
+A5776,C105,2025-09-30,Bedding Set,1.0,700 EGP,Cairo,New,4.0
+A5107,C141,2025-01-30,Jeans,,600 EGP,Giza,New,1.0
+A5488,C142,2025-06-02,Perfume,2.0,650 EGP,Giza,New,4.0
+A5197,C186,2025-10-03,Sneakers,2.0,800 EGP,Cairo,New,2.0
+A5687,C207,2025-04-03,Face Cream,1.0,280 EGP,Giza,New,5.0
+A5502,C371,2025-04-24,Perfume,3.0,650 EGP,Alexandria,New,4.0
+A5492,C159,2025-12-29,Desk Lamp,2.0,320 EGP,Mansoura,New,4.0
+A5037,C125,2025-05-11,Face Cream,1.0,280 EGP, alexandria ,New,3.0
+A5089,C269,2025-07-22,Desk Lamp,1.0,320 EGP,Mansoura,Returning,3.0
+A5080,C340,2025-09-17,Face Cream,1.0,280 EGP,Mansoura,Returning,2.0
+A5691,C291,2025-06-09,Desk Lamp,1.0,320 EGP,Alexandria,Returning,4.0
+A5472,C200,2025-08-11,Sneakers,1.0,800 EGP,Giza,New,5.0
+A5183,C167,2025-08-01,Jeans,1.0,600 EGP,Cairo,New,4.0
+A5030,C300,2025-04-18,Smart Watch,-1.0,1200 EGP, Cairo ,New,5.0
+A5010,C140,2025-04-26,Desk Lamp,1.0,320 EGP,Cairo,New,4.0
+A5378,C367,2025-10-26,Sneakers,2.0,800 EGP,Mansoura,Returning,4.0
+A5672,C130,2025-03-16,Bedding Set,1.0,700 EGP,Mansoura,Returning,3.0
+A5338,C156,2025-03-13,Bedding Set,1.0,700 EGP,giza,New,4.0
+A5077,C226,2025-09-20,Smart Watch,2.0,1200 EGP,alexandria,New,5.0
+A5315,C346,2025-01-26,Face Cream,1.0,280 EGP,giza,New,4.0
+A5001,C235,2025-03-30,Perfume,1.0,650 EGP,mansoura,Returning,3.0
+A5748,C174,2025-05-13,Desk Lamp,1.0,320 EGP,Giza,Returning,5.0
+A5656,C152,2025-03-03,Smart Watch,2.0,1200 EGP,,New,4.0
+A5543,C343,2025-12-24,Bedding Set,1.0,700 EGP,Giza,Returning,5.0
+A5511,C405,2025-01-04,Bedding Set,-1.0,700 EGP,Alexandria,New,4.0
+A5444,C329,2025-09-24,Bedding Set,3.0,700 EGP,cairo,New,2.0
+A5340,C229,2025-02-18,Perfume,1.0,650 EGP,Giza,New,2.0
+A5665,C396,2025-10-15,Sneakers,2.0,800 EGP,Alexandria,New,4.0
+A5602,C338,2025-06-27,Headphones,1.0,450 EGP,Mansoura,VIP,4.0
+A5616,C401,2025-07-17,Bedding Set,1.0,700 EGP,Giza,VIP,1.0
+A5158,C290,2025-04-29,Bedding Set,2.0,700 EGP,Cairo,Returning,4.0
+A5084,C297,2025-01-02,Jeans,3.0,600 EGP,Giza,Returning,2.0
+A5451,C311,2025-09-19,Face Cream,,280 EGP,Cairo,New,5.0
+A5251,C169,2025-09-07,Perfume,2.0,650 EGP,Cairo,New,4.0
+A5756,C365,2025-06-06,Smart Watch,1.0,1200 EGP,giza,New,5.0
+A5119,C394,2025-11-09,Sneakers,1.0,800 EGP,Giza,New,4.0
+A5642,C357,2025-11-01,Desk Lamp,3.0,320 EGP,mansoura,Returning,3.0
+A5013,C234,2025-06-01,Desk Lamp,1.0,320 EGP,Alexandria,VIP,5.0
+A5749,C179,2025-01-03,Face Cream,2.0,280 EGP,Cairo,New,2.0
+A5199,C206,2025-06-20,Desk Lamp,,320 EGP,Cairo,Returning,4.0
+A5455,C249,2025-03-25,Sneakers,1.0,800 EGP,Alexandria,Returning,3.0
+A5213,C411,2025-06-13,Bedding Set,1.0,700 EGP,alexandria,VIP,5.0
+A5295,C368,2025-12-31,Perfume,1.0,650 EGP,Cairo,Returning,4.0
+A5310,C341,2025-06-15,Perfume,2.0,650 EGP,Giza,Returning,
+A5382,C304,2025-10-16,Jeans,2.0,600 EGP,Cairo,New,2.0
+A5129,C186,2025-09-30,Desk Lamp,1.0,320 EGP,Cairo,New,4.0
+A5192,C304,2025-10-07,Smart Watch,1.0,1200 EGP,Cairo,VIP,3.0
+A5169,C292,2025-10-19,Desk Lamp,2.0,320 EGP,Mansoura,New,2.0
+A5505,C200,2025-09-25,Jeans,2.0,600 EGP,Mansoura,New,5.0
+A5774,C261,2025-09-10,Sneakers,2.0,800 EGP,Cairo,VIP,5.0
+A5163,C257,2025-11-06,Headphones,1.0,450 EGP,Giza,Returning,5.0
+A5513,C178,2025-06-08,Smart Watch,2.0,1200 EGP,Alexandria,New,5.0
+A5231,C222,2025-05-06,Face Cream,1.0,280 EGP,Giza,New,3.0
+A5762,C145,2025-02-18,Smart Watch,2.0,1200 EGP,Cairo,Returning,5.0
+A5542,C287,2025-06-03,Bedding Set,1.0,700 EGP,Cairo,New,4.0
+A5279,C191,2025-06-05,Bedding Set,2.0,700 EGP,Cairo,New,4.0
+A5782,C161,2025-12-29,Headphones,2.0,450 EGP,Giza,VIP,3.0
+A5684,C164,2025-09-13,Perfume,1.0,650 EGP,Mansoura,Returning,
+A5600,C383,2025-10-05,Smart Watch,1.0,1200 EGP,Giza,Returning,
+A5072,C227,2025-05-01,Headphones,1.0,450 EGP,Cairo,Returning,4.0
+A5453,C102,2025-05-24,Face Cream,1.0,280 EGP,Alexandria,New,2.0
+A5333,C348,2025-05-27,Headphones,3.0,450 EGP,Alexandria,VIP,4.0
+A5653,C296,2025-05-28,Perfume,1.0,650 EGP,Cairo,New,4.0
+A5204,C364,2025-07-17,Sneakers,-1.0,800 EGP,Alexandria,New,3.0
+A5662,C106,2025-09-09,Headphones,3.0,450 EGP,Cairo,New,5.0
+A5370,C142,2025-06-28,Bedding Set,1.0,700 EGP,Cairo,New,4.0
+A5533,C332,2025-05-30,Headphones,3.0,450 EGP,Cairo,New,4.0
+A5695,C262,2025-10-31,Perfume,1.0,650 EGP,Alexandria,New,5.0
+A5578,C123,2025-05-15,Headphones,2.0,450 EGP,Alexandria,New,4.0
+A5291,C315,2025-06-23,Desk Lamp,3.0,320 EGP,Giza,New,2.0
+A5108,C210,2025-11-29,Jeans,1.0,600 EGP,Giza,Returning,4.0
+A5345,C148,2025-06-29,Face Cream,3.0,280 EGP,Cairo,New,4.0
+A5544,C214,2025-04-02,Bedding Set,2.0,700 EGP, Alexandria ,Returning,4.0
+A5181,C165,2025-09-17,Face Cream,1.0,280 EGP,Mansoura,New,5.0
+A5198,C120,2025-11-15,Perfume,2.0,650 EGP,Cairo,Returning,2.0
+A5778,C390,2025-10-20,Sneakers,1.0,800 EGP,Cairo,Returning,4.0
+A5160,C254,2025-01-08,Face Cream,2.0,280 EGP,Alexandria,Returning,4.0
+A5328,C166,2025-06-28,Perfume,2.0,650 EGP,,New,3.0
+A5226,C222,2025-03-02,Smart Watch,2.0,1200 EGP,Giza,VIP,4.0
+A5630,C139,2025-11-19,Smart Watch,2.0,1200 EGP,Mansoura,New,
+A5090,C397,2025-05-30,Desk Lamp,1.0,320 EGP,Cairo,New,5.0
+A5284,C331,2025-10-22,Smart Watch,2.0,1200 EGP,Cairo,New,5.0
+A5673,C144,2025-05-30,Headphones,1.0,450 EGP,Cairo,New,4.0
+A5286,C256,2025-09-29,Jeans,2.0,600 EGP,Mansoura,Returning,3.0
+A5644,C125,2025-09-01,Sneakers,2.0,800 EGP,Giza,New,5.0
+A5209,C164,2025-08-31,Bedding Set,3.0,700 EGP,Cairo,VIP,5.0
+A5042,C300,2025-04-18,Headphones,2.0,450 EGP,Mansoura,New,4.0
+A5559,C271,2025-05-08,Smart Watch,2.0,1200 EGP,Cairo,Returning,3.0
+A5443,C101,2025-10-11,Sneakers,2.0,800 EGP,Cairo,Returning,4.0
+A5519,C316,2025-12-30,Bedding Set,1.0,700 EGP,Cairo,New,5.0
+A5157,C303,2025-12-19,Headphones,1.0,450 EGP,Cairo,Returning,4.0
+A5255,C150,2025-10-30,Perfume,1.0,650 EGP,Cairo,New,2.0
+A5250,C144,2025-10-30,Sneakers,1.0,800 EGP,Alexandria,VIP,5.0
+A5727,C122,2025-11-09,Face Cream,1.0,280 EGP,Giza,New,5.0
+A5376,C214,2025-08-23,Face Cream,1.0,280 EGP,alexandria,Returning,5.0
+A5356,C215,2025-02-06,Perfume,1.0,650 EGP,mansoura,New,3.0
+A5227,C406,2025-02-17,Sneakers,3.0,800 EGP,,Returning,3.0
+A5111,C405,2025-02-15,Smart Watch,1.0,1200 EGP,alexandria,VIP,5.0
+A5567,C120,2025-05-01,Bedding Set,2.0,700 EGP,Mansoura,Returning,5.0
+A5508,C359,2025-06-17,Jeans,3.0,600 EGP,Alexandria,VIP,5.0
+A5715,C153,2025-11-26,Bedding Set,3.0,700 EGP,Cairo,Returning,1.0
+A5698,C297,2025-08-03,Sneakers,1.0,800 EGP,cairo,New,4.0
+A5258,C222,2025-02-11,Jeans,1.0,600 EGP,Mansoura,New,4.0
+A5321,C347,2025-12-09,Smart Watch,1.0,1200 EGP,Giza,New,4.0
+A5280,C395,2025-10-04,Sneakers,1.0,800 EGP,Mansoura,New,4.0
+A5012,C354,2025-05-19,Headphones,2.0,450 EGP,Giza,New,3.0
+A5309,C136,2025-05-23,Headphones,1.0,450 EGP,Cairo,Returning,5.0
+A5675,C283,2025-08-23,Sneakers,1.0,800 EGP,Alexandria,New,5.0
+A5084,C297,2025-01-02,Jeans,3.0,600 EGP,Giza,Returning,2.0
+A5055,C103,2025-03-30,Bedding Set,1.0,700 EGP,Cairo,Returning,3.0
+A5754,C270,2025-12-21,Bedding Set,1.0,700 EGP,Giza,Returning,4.0
+A5773,C414,2025-09-27,Perfume,2.0,650 EGP,Cairo,New,5.0
+A5594,C296,2025-11-16,Smart Watch,1.0,1200 EGP,Cairo,New,4.0
+A5671,C342,2025-04-30,Smart Watch,1.0,1200 EGP,Mansoura,Returning,5.0
+A5407,C245,2025-10-07,Face Cream,1.0,280 EGP,Alexandria,New,4.0
+A5659,C395,2025-11-03,Smart Watch,1.0,1200 EGP,Cairo,New,5.0
+A5040,C221,2025-04-29,Jeans,1.0,600 EGP,Mansoura,New,5.0
+A5116,C222,2025-04-02,Jeans,1.0,600 EGP,Giza,Returning,4.0
+A5409,C191,2025-03-07,Headphones,1.0,450 EGP,Mansoura,New,4.0
+A5512,C370,2025-02-13,Sneakers,1.0,800 EGP,Mansoura,New,4.0
+A5334,C408,2025-06-14,Desk Lamp,3.0,320 EGP,Alexandria,Returning,2.0
+A5558,C339,2025-03-19,Bedding Set,1.0,700 EGP,Cairo,Returning,5.0
+A5468,C189,2025-12-18,Desk Lamp,1.0,320 EGP, Giza ,Returning,5.0
+A5586,C407,2025-07-23,Smart Watch,1.0,1200 EGP,Cairo,New,5.0
+A5178,C158,2025-01-20,Headphones,2.0,450 EGP,Alexandria,New,5.0
+A5176,C347,2025-08-14,Jeans,2.0,600 EGP,Cairo,Returning,4.0
+A5753,C205,2025-12-15,Headphones,2.0,450 EGP,giza,VIP,3.0
+A5058,C255,2025-02-21,Jeans,1.0,600 EGP,Cairo,VIP,5.0
+A5152,C325,2025-12-29,Sneakers,2.0,800 EGP,Mansoura,New,4.0
+A5311,C209,2025-03-28,Sneakers,1.0,800 EGP,Cairo,Returning,5.0
+A5624,C378,2025-05-02,Jeans,2.0,600 EGP, Giza ,Returning,4.0
+A5016,C228,2025-10-31,Perfume,3.0,650 EGP,giza,New,5.0
+A5267,C323,2025-10-20,Face Cream,1.0,280 EGP,Alexandria,Returning,4.0
+A5577,C167,2025-02-19,Smart Watch,1.0,1200 EGP,Alexandria,New,4.0
+A5465,C210,2025-07-20,Jeans,1.0,600 EGP,Giza,VIP,5.0
+A5598,C199,2025-12-05,Headphones,1.0,450 EGP,Giza,VIP,5.0
+A5566,C255,2025-12-12,Desk Lamp,1.0,320 EGP,alexandria,New,5.0
+A5440,C359,2025-05-22,Desk Lamp,1.0,320 EGP,Cairo,Returning,4.0
+A5312,C213,2025-12-19,Smart Watch,1.0,1200 EGP,Giza,New,1.0
+A5417,C187,2025-03-01,Desk Lamp,3.0,320 EGP, cairo ,Returning,5.0
+A5529,C273,2025-10-23,Desk Lamp,3.0,320 EGP,Giza,Returning,4.0
+A5525,C143,2025-11-25,Jeans,2.0,600 EGP,Cairo,Returning,3.0
+A5571,C354,2025-07-07,Perfume,2.0,650 EGP,Cairo,New,
+A5504,C350,2025-09-07,Perfume,1.0,650 EGP,Giza,VIP,4.0
+A5785,C242,2025-04-14,Face Cream,2.0,280 EGP,Giza,VIP,4.0
+A5273,C395,2025-09-15,Sneakers,2.0,800 EGP,Cairo,Returning,5.0
+A5551,C134,2025-06-13,Smart Watch,1.0,1200 EGP,Mansoura,VIP,5.0
+A5399,C410,2025-08-07,Sneakers,3.0,800 EGP,Giza,New,3.0
+A5463,C415,2025-12-28,Sneakers,1.0,800 EGP,Mansoura,VIP,5.0
+A5203,C411,2025-02-11,Sneakers,1.0,800 EGP,Cairo,New,2.0
+A5032,C129,2025-10-12,Bedding Set,2.0,700 EGP,Cairo,New,4.0
+A5425,C307,2025-10-27,Desk Lamp,2.0,320 EGP,Giza,Returning,3.0
+A5342,C202,2025-08-09,Smart Watch,2.0,1200 EGP,Cairo,New,4.0
+A5156,C187,2025-09-25,Headphones,2.0,450 EGP, Cairo ,VIP,4.0
+A5501,C193,2025-12-28,Perfume,1.0,650 EGP,Giza,New,3.0
+A5765,C200,2025-01-22,Face Cream,1.0,280 EGP,Mansoura,VIP,5.0
+A5688,C138,2025-06-01,Desk Lamp,1.0,320 EGP,Cairo,Returning,5.0
+A5536,C333,2025-09-01,Desk Lamp,1.0,320 EGP,Giza,New,4.0
+A5610,C143,2025-01-07,Headphones,1.0,450 EGP,Giza,Returning,5.0
+A5003,C159,2025-04-06,Bedding Set,3.0,700 EGP,Cairo,New,4.0
+A5484,C254,2025-12-20,Desk Lamp,2.0,320 EGP,Mansoura,Returning,5.0
+A5130,C105,2025-10-21,Smart Watch,3.0,1200 EGP,Alexandria,New,4.0
+A5595,C300,2025-01-31,Bedding Set,1.0,700 EGP,Giza,VIP,5.0
+A5397,C389,2025-12-20,Face Cream,,280 EGP,Cairo,New,4.0
+A5685,C273,2025-10-25,Sneakers,1.0,800 EGP,Giza,New,4.0
+A5394,C182,2025-06-06,Smart Watch,1.0,1200 EGP,Cairo,Returning,2.0
+A5535,C308,2025-09-03,Headphones,1.0,450 EGP,Cairo,Returning,4.0
+A5113,C263,2025-05-05,Perfume,2.0,650 EGP,,New,5.0
+A5724,C243,2025-12-06,Headphones,1.0,450 EGP,Cairo,New,4.0
+A5798,C103,2025-03-22,Sneakers,1.0,800 EGP,Cairo,New,2.0
+A5206,C270,2025-06-07,Headphones,1.0,450 EGP,mansoura,New,3.0
+A5304,C112,2025-11-08,Headphones,1.0,450 EGP,Cairo,New,5.0
+A5285,C219,2025-03-11,Jeans,2.0,600 EGP,Giza,New,5.0
+A5620,C266,2025-12-30,Desk Lamp,1.0,320 EGP,Mansoura,New,4.0
+A5225,C159,2025-08-01,Desk Lamp,1.0,320 EGP,Cairo,New,2.0
+A5460,C361,2025-12-25,Headphones,2.0,450 EGP, Giza ,New,4.0
+A5120,C242,2025-11-15,Sneakers,1.0,800 EGP,Alexandria,New,1.0
+A5371,C301,2025-01-05,Jeans,2.0,600 EGP,Alexandria,New,3.0
+A5221,C330,2025-08-04,Headphones,3.0,450 EGP,Alexandria,Returning,5.0
+A5396,C131,2025-05-06,Jeans,1.0,600 EGP,Giza,Returning,3.0
+A5171,C341,2025-06-11,Sneakers,2.0,800 EGP,Cairo,Returning,3.0
+A5732,C195,2025-07-22,Sneakers,1.0,800 EGP,Cairo,New,4.0
+A5632,C336,2025-09-27,Smart Watch,2.0,1200 EGP,Cairo,Returning,4.0
+A5565,C125,2025-10-05,Face Cream,1.0,280 EGP,Cairo,Returning,4.0
+A5640,C404,2025-07-24,Sneakers,2.0,800 EGP,Cairo,Returning,4.0
+A5374,C401,2025-05-02,Jeans,1.0,600 EGP,Cairo,VIP,5.0
+A5123,C382,2025-11-16,Jeans,3.0,600 EGP,Cairo,New,5.0
+A5476,C272,2025-03-22,Bedding Set,1.0,700 EGP,Cairo,Returning,2.0
+A5180,C314,2025-12-26,Face Cream,3.0,280 EGP,Giza,New,5.0
+A5161,C397,2025-11-08,Perfume,2.0,650 EGP,Giza,New,4.0
+A5581,C411,2025-05-15,Smart Watch,1.0,1200 EGP, Cairo ,Returning,3.0
+A5797,C158,2025-08-27,Perfume,2.0,650 EGP,Alexandria,New,
+A5117,C297,2025-01-26,Desk Lamp,1.0,320 EGP,Giza,New,4.0
+A5582,C396,2025-11-22,Smart Watch,2.0,1200 EGP,Giza,VIP,3.0
+A5554,C146,2025-12-21,Jeans,2.0,600 EGP,Cairo,New,4.0
+A5515,C265,2025-09-19,Headphones,1.0,450 EGP,Cairo,New,5.0
+A5546,C295,2025-09-18,Sneakers,1.0,800 EGP,Giza,Returning,5.0
+A5240,C193,2025-10-15,Smart Watch,2.0,1200 EGP,alexandria,Returning,5.0
+A5134,C129,2025-12-24,Desk Lamp,2.0,320 EGP,Cairo,VIP,5.0
+A5155,C262,2025-06-09,Desk Lamp,1.0,320 EGP,Alexandria,VIP,5.0
+A5139,C214,2025-05-05,Smart Watch,1.0,1200 EGP,Cairo,Returning,3.0
+A5330,C308,2025-11-12,Headphones,1.0,450 EGP,Giza,VIP,
+A5060,C351,2025-10-11,Desk Lamp,2.0,320 EGP,Cairo,Returning,3.0
+A5475,C328,2025-04-05,Perfume,1.0,650 EGP,Alexandria,Returning,5.0
+A5165,C147,2025-10-09,Perfume,2.0,650 EGP,Mansoura,New,4.0
+A5300,C385,2025-07-02,Bedding Set,1.0,700 EGP,Cairo,New,3.0
+A5411,C138,2025-11-06,Jeans,,600 EGP,Cairo,New,5.0
+A5499,C330,2025-08-07,Face Cream,1.0,280 EGP,Mansoura,Returning,3.0
+A5297,C219,2025-11-07,Smart Watch,2.0,1200 EGP,Cairo,VIP,
+A5131,C143,2025-10-27,Jeans,2.0,600 EGP,Mansoura,Returning,2.0
+A5314,C172,2025-04-15,Face Cream,,280 EGP,Giza,New,4.0
+A5750,C159,2025-07-09,Desk Lamp,3.0,320 EGP,Giza,New,4.0
+A5606,C103,2025-11-22,Desk Lamp,1.0,320 EGP,Giza,New,4.0
+A5431,C107,2025-01-29,Sneakers,,800 EGP,Cairo,Returning,5.0
+A5038,C135,2025-03-27,Jeans,,600 EGP,Cairo,Returning,5.0
+A5249,C110,2025-02-27,Bedding Set,1.0,700 EGP,Alexandria,New,4.0
+A5053,C329,2025-03-30,Headphones,2.0,450 EGP,Giza,Returning,4.0
+A5194,C223,2025-08-18,Smart Watch,,1200 EGP,Cairo,Returning,4.0
+A5136,C159,2025-09-10,Headphones,2.0,450 EGP,Alexandria,New,3.0
+A5379,C117,2025-12-21,Jeans,1.0,600 EGP,cairo,New,3.0
+A5553,C195,2025-08-26,Jeans,1.0,600 EGP,Mansoura,New,5.0
+A5281,C299,2025-02-17,Sneakers,1.0,800 EGP,Giza,New,
+A5035,C398,2025-07-17,Perfume,1.0,650 EGP,Alexandria,New,5.0
+A5781,C398,2025-01-05,Headphones,,450 EGP,Giza,New,4.0
+A5510,C107,2025-03-29,Headphones,1.0,450 EGP,Mansoura,Returning,2.0
+A5066,C348,2025-04-07,Sneakers,1.0,800 EGP,Alexandria,New,5.0
+A5690,C224,2025-07-16,Sneakers,1.0,800 EGP,Giza,Returning,4.0
+A5377,C132,2025-07-20,Perfume,3.0,650 EGP,Alexandria,Returning,4.0
+A5052,C187,2025-03-01,Perfume,2.0,650 EGP,Mansoura,New,5.0
+A5111,C405,2025-02-15,Smart Watch,1.0,1200 EGP,alexandria,VIP,5.0
+A5681,C359,2025-04-05,Smart Watch,2.0,1200 EGP,Cairo,New,4.0
+A5789,C241,2025-05-13,Smart Watch,1.0,1200 EGP,Giza,Returning,5.0
+A5239,C271,2025-01-09,Smart Watch,1.0,1200 EGP,Alexandria,VIP,4.0
+A5246,C204,2025-05-18,Smart Watch,1.0,1200 EGP,Cairo,New,4.0
+A5028,C256,2025-08-08,Desk Lamp,3.0,320 EGP,Alexandria,New,5.0
+A5739,C337,2025-11-22,Perfume,1.0,650 EGP,Alexandria,New,2.0
+A5265,C268,2025-06-24,Headphones,1.0,450 EGP,Giza,New,4.0
+A5244,C143,2025-04-18,Bedding Set,2.0,700 EGP,Cairo,Returning,4.0
+A5103,C256,2025-05-26,Desk Lamp,2.0,320 EGP,Cairo,Returning,4.0
+A5276,C157,2025-01-03,Desk Lamp,1.0,320 EGP,Cairo,Returning,
+A5110,C254,2025-03-27,Smart Watch,1.0,1200 EGP,Cairo,New,5.0
+A5418,C356,2025-07-08,Jeans,1.0,600 EGP,,New,5.0
+A5159,C414,2025-04-12,Perfume,1.0,650 EGP,Mansoura,New,4.0
+A5235,C397,2025-01-09,Bedding Set,1.0,700 EGP,Alexandria,New,4.0
+A5391,C340,2025-10-23,Headphones,2.0,450 EGP, Cairo ,Returning,5.0
+A5112,C220,2025-03-18,Bedding Set,2.0,700 EGP,cairo,New,5.0
+A5459,C211,2025-12-03,Headphones,1.0,450 EGP,Mansoura,New,4.0
+A5723,C166,2025-02-11,Jeans,2.0,600 EGP,Giza,New,4.0
+A5518,C286,2025-02-02,Jeans,1.0,600 EGP, Cairo ,New,1.0
+A5683,C400,2025-04-22,Headphones,1.0,450 EGP,cairo,New,
+A5486,C194,2025-05-12,Headphones,2.0,450 EGP,mansoura,Returning,5.0
+A5262,C241,2025-09-05,Face Cream,1.0,280 EGP,Giza,Returning,3.0
+A5223,C244,2025-09-17,Headphones,1.0,450 EGP,Alexandria,New,5.0
+A5521,C227,2025-03-16,Headphones,3.0,450 EGP,Alexandria,New,4.0
+A5393,C119,2025-05-16,Sneakers,1.0,800 EGP,Giza,VIP,2.0
+A5618,C358,2025-07-13,Bedding Set,1.0,700 EGP,Cairo,New,5.0
+A5764,C322,2025-10-09,Perfume,2.0,650 EGP,Cairo,VIP,5.0
+A5710,C176,2025-02-20,Face Cream,1.0,280 EGP,Cairo,New,5.0
+A5167,C326,2025-12-19,Jeans,3.0,600 EGP,mansoura,New,4.0
+A5386,C225,2025-03-31,Bedding Set,2.0,700 EGP, Cairo ,Returning,4.0
+A5241,C322,2025-12-05,Face Cream,2.0,280 EGP,Alexandria,New,5.0
+A5664,C284,2025-02-21,Perfume,2.0,650 EGP,Mansoura,New,5.0
+A5572,C176,2025-08-23,Desk Lamp,1.0,320 EGP,Cairo,Returning,4.0
+A5779,C161,2025-05-02,Face Cream,,280 EGP,cairo,New,5.0
+A5024,C386,2025-12-06,Headphones,2.0,450 EGP,Mansoura,New,3.0
+A5294,C141,2025-07-28,Headphones,3.0,450 EGP,Alexandria,Returning,1.0
+A5522,C221,2025-03-20,Headphones,1.0,450 EGP,Giza,New,5.0
+A5761,C364,2025-08-13,Sneakers,1.0,800 EGP,Giza,New,4.0
+A5694,C200,2025-12-29,Bedding Set,1.0,700 EGP,Alexandria,New,
+A5150,C299,2025-06-11,Perfume,1.0,650 EGP,Alexandria,New,5.0
+A5041,C183,2025-08-16,Perfume,1.0,650 EGP,Alexandria,Returning,
+A5346,C310,2025-05-30,Sneakers,1.0,800 EGP,Giza,Returning,5.0
+A5094,C302,2025-09-03,Sneakers,1.0,800 EGP,Mansoura,VIP,3.0
+A5419,C306,2025-04-18,Sneakers,1.0,800 EGP,Giza,Returning,3.0
+A5217,C280,2025-06-13,Desk Lamp,1.0,320 EGP,Cairo,VIP,3.0
+A5631,C246,2025-06-27,Face Cream,3.0,280 EGP,Cairo,New,4.0
+A5381,C354,2025-09-13,Headphones,1.0,450 EGP,Mansoura,Returning,4.0
+A5023,C212,2025-06-18,Smart Watch,2.0,1200 EGP,giza,Returning,4.0
+A5268,C100,2025-02-15,Bedding Set,1.0,700 EGP,Alexandria,VIP,4.0
+A5388,C336,2025-03-10,Jeans,1.0,600 EGP,Alexandria,Returning,4.0
+A5352,C254,2025-12-05,Face Cream,3.0,280 EGP,Cairo,New,5.0
+A5292,C138,2025-08-18,Jeans,,600 EGP,Cairo,Returning,4.0
+A5200,C193,2025-11-09,Perfume,1.0,650 EGP,Giza,VIP,5.0
+A5173,C182,2025-09-30,Jeans,1.0,600 EGP,Mansoura,New,4.0
+A5100,C326,2025-12-24,Desk Lamp,1.0,320 EGP,Cairo,Returning,5.0
+A5736,C183,2025-07-24,Perfume,2.0,650 EGP,Alexandria,New,5.0
+A5091,C200,2025-01-13,Headphones,3.0,450 EGP,alexandria,New,3.0
+A5621,C389,2025-04-06,Sneakers,1.0,800 EGP,Cairo,New,1.0
+A5769,C266,2025-09-23,Sneakers,2.0,800 EGP,Giza,Returning,5.0
+A5456,C188,2025-04-24,Bedding Set,1.0,700 EGP,Cairo,New,1.0
+A5524,C326,2025-06-21,Smart Watch,2.0,1200 EGP,Cairo,New,5.0
+A5467,C300,2025-03-11,Bedding Set,1.0,700 EGP,Alexandria,VIP,4.0
+A5222,C283,2025-07-28,Face Cream,1.0,280 EGP,cairo,Returning,
+A5214,C119,2025-09-26,Smart Watch,1.0,1200 EGP,Cairo,Returning,5.0
+A5188,C292,2025-05-31,Bedding Set,1.0,700 EGP,Cairo,New,4.0
+A5354,C348,2025-12-16,Headphones,2.0,450 EGP,Alexandria,VIP,1.0
+A5432,C206,2025-07-16,Sneakers,1.0,800 EGP,Giza,VIP,2.0
+A5728,C114,2025-12-16,Sneakers,1.0,800 EGP,Giza,Returning,5.0
+A5575,C296,2025-05-30,Bedding Set,2.0,700 EGP,Alexandria,New,5.0
+A5353,C185,2025-10-14,Headphones,2.0,450 EGP,Cairo,VIP,
+A5076,C336,2025-05-08,Smart Watch,1.0,1200 EGP,Alexandria,Returning,4.0
+A5242,C301,2025-10-17,Desk Lamp,1.0,320 EGP,Cairo,VIP,4.0
+A5708,C417,2025-07-24,Desk Lamp,1.0,320 EGP,Cairo,New,4.0
+A5073,C409,2025-07-26,Desk Lamp,1.0,320 EGP,Mansoura,New,1.0
+A5642,C357,2025-11-01,Desk Lamp,3.0,320 EGP,mansoura,Returning,3.0
+A5537,C320,2025-03-08,Bedding Set,1.0,700 EGP,Cairo,New,4.0
+A5794,C363,2025-11-04,Sneakers,3.0,800 EGP,cairo,New,4.0
+A5347,C353,2025-04-20,Sneakers,3.0,800 EGP,Cairo,Returning,3.0
+A5118,C263,2025-02-16,Desk Lamp,2.0,320 EGP,Cairo,Returning,5.0
+A5614,C176,2025-07-13,Headphones,1.0,450 EGP,Giza,Returning,4.0
+A5729,C419,2025-10-11,Sneakers,1.0,800 EGP,Cairo,New,4.0
+A5718,C229,2025-01-19,Bedding Set,2.0,700 EGP,Cairo,Returning,
+A5700,C287,2025-06-10,Face Cream,3.0,280 EGP,Giza,Returning,5.0
+A5005,C237,2025-08-21,Headphones,1.0,450 EGP,Alexandria,New,5.0
+A5452,C193,2025-03-01,Smart Watch,1.0,1200 EGP,Cairo,New,3.0
+A5716,C228,2025-07-17,Jeans,1.0,600 EGP,Alexandria,New,4.0
+A5439,C214,2025-07-20,Headphones,1.0,450 EGP,Giza,New,5.0
+A5069,C277,2025-10-27,Jeans,2.0,600 EGP,Cairo,VIP,4.0
+A5014,C360,2025-02-14,Face Cream,1.0,280 EGP,Cairo,Returning,4.0
+A5437,C157,2025-08-11,Desk Lamp,1.0,320 EGP,Cairo,New,4.0
+A5678,C298,2025-09-23,Perfume,3.0,650 EGP,Giza,New,3.0
+A5369,C179,2025-04-27,Sneakers,1.0,800 EGP,Cairo,Returning,5.0
+A5078,C279,2025-06-07,Bedding Set,1.0,700 EGP,Alexandria,New,4.0
+A5202,C111,2025-11-26,Perfume,2.0,650 EGP,Alexandria,New,4.0
+A5496,C113,2025-08-20,Perfume,1.0,650 EGP,Giza,New,1.0
+A5611,C354,2025-03-12,Headphones,3.0,450 EGP,Cairo,New,4.0
+A5004,C402,2025-06-10,Face Cream,,280 EGP,Giza,Returning,4.0
+A5552,C414,2025-09-07,Sneakers,1.0,800 EGP,Giza,VIP,5.0
+A5242,C301,2025-10-17,Desk Lamp,1.0,320 EGP,Cairo,VIP,4.0
+A5686,C101,2025-07-21,Perfume,1.0,650 EGP,Alexandria,Returning,2.0
+A5266,C125,2025-08-17,Jeans,3.0,600 EGP,Mansoura,Returning,
+A5747,C294,2025-07-04,Headphones,1.0,450 EGP,Cairo,New,5.0
+A5293,C417,2025-01-22,Perfume,1.0,650 EGP,cairo,Returning,3.0
+A5071,C148,2025-11-23,Perfume,,650 EGP,Giza,VIP,
+A5541,C179,2025-08-20,Headphones,1.0,450 EGP,Alexandria,New,5.0
+A5002,C262,2025-09-03,Face Cream,1.0,280 EGP,Alexandria,Returning,3.0
+A5025,C282,2025-01-20,Headphones,1.0,450 EGP,Alexandria,New,4.0
+A5308,C381,2025-03-27,Jeans,2.0,600 EGP,Cairo,New,4.0
+A5216,C183,2025-02-21,Smart Watch,1.0,1200 EGP,Giza,New,4.0
+A5343,C341,2025-10-16,Perfume,1.0,650 EGP,Mansoura,New,4.0
+A5719,C232,2025-11-07,Face Cream,1.0,280 EGP,Mansoura,Returning,
+A5734,C154,2025-12-10,Sneakers,1.0,800 EGP,,New,5.0
+A5166,C335,2025-12-11,Smart Watch,2.0,1200 EGP,Alexandria,VIP,3.0
+A5682,C186,2025-04-26,Headphones,1.0,450 EGP,alexandria,Returning,5.0
+A5568,C258,2025-03-20,Headphones,2.0,450 EGP,Cairo,New,4.0
+A5331,C165,2025-10-02,Face Cream,1.0,280 EGP, Cairo ,VIP,4.0
+A5177,C300,2025-08-16,Perfume,2.0,650 EGP,Giza,Returning,2.0
+A5375,C348,2025-05-09,Headphones,1.0,450 EGP,alexandria,New,4.0
+A5437,C157,2025-08-11,Desk Lamp,1.0,320 EGP,Cairo,New,4.0
+A5247,C369,2025-03-09,Headphones,1.0,450 EGP,Cairo,New,3.0
+A5373,C128,2025-05-18,Desk Lamp,3.0,320 EGP,Cairo,New,5.0
+A5521,C227,2025-03-16,Headphones,3.0,450 EGP,Alexandria,New,4.0
+A5526,C198,2025-03-08,Perfume,1.0,650 EGP,Cairo,Returning,3.0
+A5489,C264,2025-11-13,Desk Lamp,1.0,320 EGP,Giza,New,4.0
+A5764,C322,2025-10-09,Perfume,2.0,650 EGP,Cairo,VIP,5.0
+A5596,C120,2025-07-13,Desk Lamp,1.0,320 EGP,Cairo,VIP,
+A5637,C160,2025-05-04,Bedding Set,3.0,700 EGP,Alexandria,New,4.0
+A5667,C398,2025-05-24,Sneakers,3.0,800 EGP,Alexandria,VIP,4.0
+A5307,C374,2025-09-04,Perfume,2.0,650 EGP,Cairo,New,
+A5048,C362,2025-05-13,Sneakers,1.0,800 EGP,Cairo,New,5.0
+A5480,C182,2025-10-14,Bedding Set,1.0,700 EGP,Cairo,Returning,4.0
+A5704,C141,2025-10-17,Perfume,1.0,650 EGP,Giza,New,2.0
+A5054,C418,2025-10-18,Bedding Set,2.0,700 EGP,Alexandria,VIP,1.0
+A5636,C249,2025-01-25,Headphones,2.0,450 EGP, Alexandria ,New,5.0
+A5234,C192,2025-01-08,Sneakers,1.0,800 EGP,Cairo,New,4.0
+A5114,C357,2025-05-21,Face Cream,-1.0,280 EGP,Cairo,New,4.0
+A5591,C161,2025-06-05,Jeans,2.0,600 EGP,,New,1.0
+A5430,C155,2025-03-25,Sneakers,1.0,800 EGP,Cairo,VIP,4.0
+A5329,C237,2025-09-05,Perfume,1.0,650 EGP,Giza,Returning,4.0
+A5464,C183,2025-08-09,Face Cream,3.0,280 EGP,Alexandria,New,3.0
+A5412,C315,2025-08-31,Bedding Set,3.0,700 EGP,Giza,New,4.0
+A5191,C165,2025-03-05,Bedding Set,1.0,700 EGP,Mansoura,Returning,
+A5503,C245,2025-10-31,Headphones,1.0,450 EGP,Alexandria,New,4.0
+A5151,C239,2025-03-27,Bedding Set,3.0,700 EGP,Alexandria,Returning,4.0
+A5179,C322,2025-06-20,Desk Lamp,1.0,320 EGP,Alexandria,New,4.0
+A5435,C274,2025-07-11,Face Cream,1.0,280 EGP,Giza,New,4.0
+A5740,C287,2025-09-18,Smart Watch,1.0,1200 EGP,Cairo,New,5.0
+A5384,C342,2025-04-24,Sneakers,1.0,800 EGP,,Returning,5.0
+A5154,C265,2025-02-19,Jeans,1.0,600 EGP,Cairo,Returning,4.0
+A5713,C390,2025-11-21,Bedding Set,2.0,700 EGP,Mansoura,New,4.0
+A5256,C199,2025-07-13,Smart Watch,1.0,1200 EGP,alexandria,VIP,4.0
+A5363,C301,2025-04-10,Perfume,3.0,650 EGP,Alexandria,New,4.0
+A5633,C219,2025-02-06,Smart Watch,1.0,1200 EGP,Alexandria,Returning,5.0
+A5549,C314,2025-12-28,Face Cream,1.0,280 EGP,Alexandria,New,5.0
+A5641,C171,2025-08-17,Sneakers,1.0,800 EGP,Giza,Returning,3.0
+A5175,C334,2025-03-03,Bedding Set,2.0,700 EGP,Cairo,New,3.0
+A5029,C199,2025-02-25,Smart Watch,2.0,1200 EGP,cairo,New,2.0
+A5126,C238,2025-06-21,Face Cream,1.0,280 EGP,Mansoura,VIP,3.0
+A5579,C313,2025-05-15,Perfume,1.0,650 EGP,Alexandria,New,3.0
+A5070,C382,2025-07-15,Headphones,1.0,450 EGP,Mansoura,Returning,4.0
+A5660,C298,2025-05-23,Jeans,2.0,600 EGP,Giza,New,5.0
+A5383,C287,2025-01-18,Smart Watch,1.0,1200 EGP, Mansoura ,Returning,5.0
+A5145,C305,2025-08-28,Perfume,1.0,650 EGP,Cairo,New,5.0
+A5666,C279,2025-06-28,Desk Lamp,1.0,320 EGP,Cairo,Returning,5.0
+A5777,C389,2025-10-31,Bedding Set,1.0,700 EGP,,VIP,4.0
+A5215,C354,2025-06-01,Jeans,1.0,600 EGP,Cairo,New,
+A5626,C131,2025-09-03,Jeans,3.0,600 EGP, Alexandria ,New,5.0
+A5742,C364,2025-07-31,Jeans,1.0,600 EGP,Cairo,Returning,4.0
+A5617,C406,2025-04-26,Sneakers,1.0,800 EGP,Cairo,New,4.0
+A5196,C344,2025-10-09,Perfume,1.0,650 EGP,,New,5.0
+A5763,C398,2025-01-24,Desk Lamp,1.0,320 EGP,Cairo,New,5.0
+A5495,C299,2025-08-19,Perfume,,650 EGP,,New,5.0
+A5017,C394,2025-03-23,Headphones,2.0,450 EGP,Alexandria,New,3.0
+A5639,C181,2025-04-14,Smart Watch,2.0,1200 EGP,Giza,New,3.0
+A5027,C189,2025-07-11,Headphones,1.0,450 EGP,Giza,VIP,1.0
+A5277,C229,2025-03-13,Headphones,1.0,450 EGP,Mansoura,Returning,1.0
+A5395,C128,2025-02-27,Face Cream,2.0,280 EGP,Giza,New,4.0
+A5228,C325,2025-07-08,Sneakers,1.0,800 EGP,Mansoura,New,1.0
+A5320,C241,2025-08-02,Bedding Set,,700 EGP,Giza,New,4.0
+A5147,C133,2025-09-21,Bedding Set,1.0,700 EGP,Cairo,New,5.0
+A5780,C273,2025-03-18,Headphones,1.0,450 EGP,Cairo,Returning,4.0
+A5494,C212,2025-10-15,Jeans,2.0,600 EGP,Giza,Returning,5.0
+A5449,C317,2025-01-16,Smart Watch,,1200 EGP,giza,New,4.0
+A5751,C151,2025-12-21,Bedding Set,2.0,700 EGP,Cairo,New,2.0
+A5106,C375,2025-11-08,Sneakers,2.0,800 EGP,Cairo,New,5.0
+A5350,C309,2025-12-04,Bedding Set,1.0,700 EGP,Mansoura,Returning,
+A5523,C288,2025-08-04,Headphones,2.0,450 EGP,,Returning,5.0
+A5389,C237,2025-10-25,Jeans,1.0,600 EGP,,VIP,5.0
+A5448,C323,2025-08-16,Desk Lamp,2.0,320 EGP,Cairo,Returning,5.0
+A5093,C152,2025-05-28,Jeans,1.0,600 EGP,Cairo,Returning,3.0
+A5259,C387,2025-01-11,Face Cream,1.0,280 EGP,Giza,Returning,
+A5731,C185,2025-06-27,Headphones,1.0,450 EGP, Cairo ,New,4.0
+A5170,C375,2025-07-01,Perfume,1.0,650 EGP,Cairo,Returning,3.0
+A5254,C276,2025-08-03,Desk Lamp,1.0,320 EGP,,Returning,4.0
+A5252,C345,2025-09-02,Jeans,1.0,600 EGP,Cairo,New,4.0
+A5306,C136,2025-10-10,Face Cream,1.0,280 EGP,Giza,New,5.0
+A5658,C406,2025-12-31,Smart Watch,3.0,1200 EGP,Cairo,New,3.0
+A5783,C138,2025-01-15,Face Cream,1.0,280 EGP,Alexandria,New,5.0
+A5428,C351,2025-06-22,Smart Watch,2.0,1200 EGP,Cairo,Returning,5.0
+A5186,C390,2025-12-06,Perfume,1.0,650 EGP,Alexandria,Returning,5.0
+A5269,C329,2025-10-15,Face Cream,1.0,280 EGP,Mansoura,New,2.0
+A5162,C400,2025-12-11,Bedding Set,1.0,700 EGP,Alexandria,Returning,4.0
+A5413,C196,2025-05-28,Perfume,1.0,650 EGP,Mansoura,VIP,3.0
+A5638,C293,2025-12-01,Desk Lamp,2.0,320 EGP,Cairo,New,2.0
+A5669,C288,2025-04-14,Face Cream,1.0,280 EGP,Giza,Returning,4.0
+A5098,C223,2025-11-17,Desk Lamp,1.0,320 EGP,Cairo,New,4.0
+A5006,C317,2025-07-01,Jeans,1.0,600 EGP,Cairo,New,4.0
+A5663,C250,2025-10-20,Sneakers,1.0,800 EGP, Giza ,Returning,5.0
+A5705,C265,2025-07-06,Desk Lamp,2.0,320 EGP,Cairo,New,5.0
+A5229,C110,2025-04-09,Perfume,1.0,650 EGP,mansoura,Returning,4.0
+A5264,C247,2025-02-17,Perfume,1.0,650 EGP, Giza ,New,3.0
+A5368,C275,2025-06-02,Jeans,1.0,600 EGP,Cairo,Returning,4.0
+A5790,C399,2025-08-12,Smart Watch,3.0,1200 EGP,Alexandria,New,4.0
+A5712,C279,2025-08-19,Jeans,1.0,600 EGP,Mansoura,New,5.0
+A5699,C369,2025-06-21,Desk Lamp,1.0,320 EGP,Alexandria,New,4.0
+A5738,C399,2025-06-19,Bedding Set,2.0,700 EGP,Giza,New,2.0
+A5403,C205,2025-06-12,Smart Watch,1.0,1200 EGP,Alexandria,New,3.0
+A5599,C233,2025-06-02,Headphones,3.0,450 EGP,Giza,Returning,2.0
+A5189,C354,2025-01-14,Bedding Set,1.0,700 EGP,Alexandria,Returning,3.0
+A5332,C385,2025-04-15,Perfume,1.0,650 EGP,Cairo,New,4.0
+A5303,C270,2025-08-20,Bedding Set,3.0,700 EGP,Mansoura,New,1.0
+A5260,C123,2025-09-25,Jeans,2.0,600 EGP,Cairo,Returning,3.0
+A5144,C344,2025-06-20,Headphones,1.0,450 EGP,Cairo,New,4.0
+A5283,C384,2025-06-18,Perfume,1.0,650 EGP,Mansoura,VIP,5.0
+A5706,C150,2025-01-20,Sneakers,2.0,800 EGP,Mansoura,VIP,5.0
+A5011,C382,2025-09-20,Bedding Set,1.0,700 EGP,Alexandria,New,3.0
+A5703,C261,2025-12-05,Perfume,2.0,650 EGP,Cairo,New,4.0
+A5531,C209,2025-03-18,Headphones,1.0,450 EGP,Alexandria,New,5.0
+A5469,C230,2025-12-15,Sneakers,3.0,800 EGP,Cairo,New,4.0
+A5127,C127,2025-03-12,Desk Lamp,1.0,320 EGP,,Returning,5.0
+A5603,C259,2025-12-29,Face Cream,3.0,280 EGP,Alexandria,New,3.0
+A5057,C189,2025-06-17,Headphones,1.0,450 EGP,alexandria,Returning,4.0
+A5033,C109,2025-05-18,Jeans,1.0,600 EGP,Cairo,Returning,5.0
+A5237,C158,2025-10-25,Jeans,3.0,600 EGP,Alexandria,New,4.0
+A5757,C338,2025-08-25,Bedding Set,1.0,700 EGP,Giza,VIP,3.0
+A5282,C110,2025-02-10,Sneakers,2.0,800 EGP,Cairo,New,
+A5362,C259,2025-08-28,Jeans,2.0,600 EGP,Giza,New,
+A5243,C320,2025-09-03,Sneakers,1.0,800 EGP,Giza,New,3.0
+A5092,C410,2025-02-21,Headphones,1.0,450 EGP,Cairo,Returning,3.0
+A5210,C227,2025-11-01,Desk Lamp,1.0,320 EGP,Giza,Returning,4.0
+A5337,C363,2025-08-09,Smart Watch,,1200 EGP,Cairo,VIP,5.0
+A5301,C258,2025-12-30,Smart Watch,1.0,1200 EGP,Cairo,Returning,4.0
+A5085,C277,2025-11-27,Bedding Set,1.0,700 EGP,Giza,New,4.0
+A5190,C108,2025-09-09,Face Cream,2.0,280 EGP,Cairo,New,2.0
+A5039,C260,2025-11-29,Sneakers,,800 EGP,Alexandria,VIP,5.0
+A5500,C161,2025-12-29,Face Cream,2.0,280 EGP,Giza,Returning,2.0
+A5507,C159,2025-03-11,Desk Lamp,2.0,320 EGP,Giza,New,4.0
+A5516,C148,2025-09-27,Desk Lamp,2.0,320 EGP,Alexandria,New,1.0
+A5104,C162,2025-02-12,Face Cream,1.0,280 EGP,Cairo,Returning,1.0
+A5668,C351,2025-03-21,Face Cream,1.0,280 EGP,Cairo,VIP,1.0
+A5233,C123,2025-06-19,Perfume,3.0,650 EGP,Giza,Returning,4.0
+A5105,C264,2025-08-30,Sneakers,2.0,800 EGP,Cairo,New,5.0
+A5341,C325,2025-05-17,Perfume,1.0,650 EGP,Alexandria,Returning,4.0
+A5253,C306,2025-04-02,Jeans,1.0,600 EGP,Mansoura,Returning,4.0
+A5408,C300,2025-06-23,Face Cream,,280 EGP,Giza,Returning,3.0
+A5422,C106,2025-01-01,Headphones,2.0,450 EGP,Giza,New,5.0
+A5208,C230,2025-04-26,Face Cream,2.0,280 EGP,Cairo,Returning,2.0
+A5540,C278,2025-03-22,Bedding Set,,700 EGP,Alexandria,VIP,4.0
+A5634,C327,2025-06-15,Perfume,1.0,650 EGP,Cairo,New,4.0
+A5082,C273,2025-02-27,Smart Watch,2.0,1200 EGP,Cairo,New,4.0
+A5497,C180,2025-08-25,Desk Lamp,3.0,320 EGP,,New,4.0
+A5755,C379,2025-12-06,Perfume,1.0,650 EGP,cairo,New,2.0
+A5583,C374,2025-12-14,Jeans,2.0,600 EGP,Mansoura,VIP,4.0
+A5643,C112,2025-02-12,Smart Watch,1.0,1200 EGP,Giza,New,4.0
+A5087,C302,2025-11-30,Sneakers,1.0,800 EGP,Alexandria,New,4.0
+A5064,C156,2025-11-26,Jeans,1.0,600 EGP,Alexandria,New,4.0
+A5270,C215,2025-05-31,Sneakers,1.0,800 EGP,,VIP,5.0
+A5605,C358,2025-08-03,Bedding Set,2.0,700 EGP, Cairo ,Returning,4.0
+A5274,C373,2025-05-20,Perfume,2.0,650 EGP,Mansoura,Returning,4.0
+A5654,C193,2025-03-19,Headphones,2.0,450 EGP,Giza,VIP,4.0
+A5735,C287,2025-11-01,Perfume,1.0,650 EGP,Cairo,VIP,5.0
+A5153,C203,2025-02-27,Headphones,1.0,450 EGP,Cairo,New,4.0
+A5613,C155,2025-02-07,Face Cream,1.0,280 EGP,Cairo,New,3.0
+A5645,C130,2025-01-02,Sneakers,1.0,800 EGP,Cairo,New,3.0
+A5410,C281,2025-06-23,Perfume,1.0,650 EGP,Cairo,New,4.0
+A5517,C398,2025-07-05,Perfume,1.0,650 EGP,Cairo,Returning,3.0
+A5044,C129,2025-06-20,Smart Watch,1.0,1200 EGP,Giza,New,3.0
+A5625,C360,2025-06-27,Smart Watch,2.0,1200 EGP,Giza,Returning,5.0
+A5390,C340,2025-01-19,Face Cream,1.0,280 EGP,Giza,Returning,2.0
+A5220,C113,2025-05-18,Desk Lamp,1.0,320 EGP,Alexandria,New,5.0
+A5140,C361,2025-08-10,Face Cream,1.0,280 EGP,Mansoura,New,4.0
+A5349,C389,2025-09-19,Jeans,3.0,600 EGP,Alexandria,Returning,3.0
+A5357,C333,2025-07-26,Sneakers,2.0,800 EGP,Cairo,Returning,5.0
+A5133,C103,2025-06-10,Jeans,1.0,600 EGP,,Returning,4.0
+A5261,C119,2025-07-02,Face Cream,1.0,280 EGP,Alexandria,Returning,4.0
+A5278,C200,2025-02-26,Face Cream,2.0,280 EGP,Alexandria,New,5.0
+A5079,C195,2025-01-24,Sneakers,1.0,800 EGP,giza,New,1.0
+A5175,C334,2025-03-03,Bedding Set,2.0,700 EGP,Cairo,New,3.0
+A5115,C308,2025-10-24,Sneakers,1.0,800 EGP,Giza,Returning,5.0
+A5676,C104,2025-06-25,Bedding Set,1.0,700 EGP,Cairo,New,5.0
+A5692,C132,2025-09-11,Sneakers,2.0,800 EGP,Giza,New,4.0
+A5380,C399,2025-07-20,Desk Lamp,1.0,320 EGP,Cairo,Returning,5.0
+A5766,C142,2025-01-10,Sneakers,3.0,800 EGP,Cairo,New,5.0
+A5184,C324,2025-07-16,Smart Watch,1.0,1200 EGP,Mansoura,New,5.0
+A5652,C296,2025-05-05,Face Cream,1.0,280 EGP,Cairo,VIP,4.0
+A5358,C181,2025-04-01,Perfume,1.0,650 EGP,Alexandria,Returning,2.0
+A5036,C310,2025-07-25,Smart Watch,1.0,1200 EGP,Cairo,New,4.0
+A5339,C230,2025-06-30,Perfume,2.0,650 EGP, Cairo ,VIP,5.0
+A5693,C367,2025-07-04,Desk Lamp,1.0,320 EGP,Alexandria,New,3.0
+A5420,C214,2025-09-27,Face Cream,1.0,280 EGP,Giza,New,5.0
+A5149,C357,2025-09-20,Sneakers,,800 EGP,Cairo,New,5.0
+A5009,C306,2025-01-09,Sneakers,3.0,800 EGP,Alexandria,New,4.0
+A5045,C390,2025-02-07,Jeans,3.0,600 EGP,,New,4.0
+A5095,C249,2025-04-10,Sneakers,,800 EGP,cairo,New,5.0
+A5744,C175,2025-07-01,Sneakers,1.0,800 EGP,Cairo,New,5.0
+A5301,C258,2025-12-30,Smart Watch,1.0,1200 EGP,Cairo,Returning,4.0
+A5548,C137,2025-11-21,Smart Watch,3.0,1200 EGP,Cairo,Returning,5.0
+A5560,C287,2025-02-16,Smart Watch,1.0,1200 EGP,Giza,New,4.0
+A5298,C203,2025-07-04,Jeans,1.0,600 EGP,Giza,Returning,4.0
+A5290,C305,2025-05-10,Perfume,1.0,650 EGP,,New,4.0
+A5415,C209,2025-02-02,Smart Watch,2.0,1200 EGP,Cairo,New,4.0
+A5313,C380,2025-07-31,Face Cream,2.0,280 EGP,Cairo,Returning,3.0
+A5421,C230,2025-04-23,Smart Watch,1.0,1200 EGP, alexandria ,New,5.0
+A5657,C245,2025-09-04,Smart Watch,1.0,1200 EGP,Giza,Returning,5.0
+A5122,C137,2025-03-20,Jeans,1.0,600 EGP,Alexandria,New,5.0
+A5696,C399,2025-07-05,Sneakers,1.0,800 EGP,Alexandria,Returning,4.0
+A5677,C361,2025-07-19,Jeans,3.0,600 EGP,,New,2.0
+A5361,C183,2025-12-14,Face Cream,1.0,280 EGP,alexandria,New,5.0
+A5336,C174,2025-03-05,Face Cream,1.0,280 EGP,Cairo,VIP,3.0
+A5135,C326,2025-02-23,Desk Lamp,1.0,320 EGP,giza,New,
+A5703,C261,2025-12-05,Perfume,2.0,650 EGP,Cairo,New,4.0
+A5651,C354,2025-03-14,Bedding Set,1.0,700 EGP, Cairo ,Returning,4.0
+A5367,C218,2025-11-27,Sneakers,2.0,800 EGP,Cairo,VIP,5.0
+A5791,C105,2025-09-07,Jeans,2.0,600 EGP, Giza ,Returning,2.0
+A5746,C315,2025-03-06,Smart Watch,1.0,1200 EGP,Alexandria,Returning,4.0
+A5619,C371,2025-02-22,Desk Lamp,1.0,320 EGP,Mansoura,New,3.0
+A5008,C407,2025-07-31,Sneakers,2.0,800 EGP,Cairo,Returning,
+A5097,C170,2025-03-04,Bedding Set,,700 EGP,Alexandria,VIP,1.0
+A5799,C255,2025-03-26,Perfume,1.0,650 EGP,Cairo,New,3.0
+A5348,C402,2025-03-26,Headphones,1.0,450 EGP,Giza,New,
+A5509,C271,2025-01-02,Headphones,1.0,450 EGP,Alexandria,New,4.0
+A5786,C248,2025-12-05,Headphones,2.0,450 EGP,Cairo,New,2.0
+A5021,C288,2025-10-19,Jeans,1.0,600 EGP,Cairo,Returning,4.0
+A5482,C330,2025-02-01,Smart Watch,1.0,1200 EGP,Mansoura,VIP,5.0
+A5795,C189,2025-08-19,Face Cream,1.0,280 EGP, Alexandria ,Returning,5.0
+A5405,C411,2025-07-01,Jeans,2.0,600 EGP,Cairo,New,3.0
+A5289,C324,2025-04-07,Headphones,1.0,450 EGP,Cairo,Returning,4.0
+A5701,C255,2025-06-28,Headphones,2.0,450 EGP,Cairo,New,5.0
+A5478,C222,2025-02-10,Perfume,2.0,650 EGP,Mansoura,Returning,2.0
+A5590,C110,2025-02-28,Face Cream,,280 EGP,Cairo,Returning,4.0
+A5491,C204,2025-09-05,Smart Watch,2.0,1200 EGP,Cairo,Returning,4.0
+A5046,C158,2025-07-17,Jeans,1.0,600 EGP,,VIP,4.0
+A5364,C314,2025-11-23,Perfume,3.0,650 EGP,Giza,Returning,4.0
+A5296,C390,2025-05-24,Bedding Set,2.0,700 EGP,Giza,VIP,5.0
+A5049,C119,2025-07-11,Desk Lamp,1.0,320 EGP,Giza,New,4.0
+A5487,C216,2025-09-14,Perfume,2.0,650 EGP,Giza,Returning,4.0
+A5224,C348,2025-06-13,Sneakers,3.0,800 EGP,Giza,VIP,4.0
+A5219,C116,2025-02-18,Bedding Set,3.0,700 EGP,Mansoura,New,4.0
+A5775,C269,2025-01-10,Perfume,1.0,650 EGP,,Returning,4.0
+A5349,C389,2025-09-19,Jeans,3.0,600 EGP,Alexandria,Returning,3.0
+A5647,C367,2025-09-18,Bedding Set,1.0,700 EGP,Mansoura,Returning,2.0
+A5201,C105,2025-11-28,Smart Watch,1.0,1200 EGP,giza,New,2.0
+A5562,C220,2025-01-30,Face Cream,2.0,280 EGP,Alexandria,Returning,3.0
+A5622,C158,2025-09-09,Bedding Set,2.0,700 EGP,Alexandria,New,4.0
+A5565,C125,2025-10-05,Face Cream,1.0,280 EGP,Cairo,Returning,4.0
+A5063,C256,2025-12-19,Smart Watch,2.0,1200 EGP,Cairo,New,5.0
+A5604,C323,2025-06-25,Jeans,3.0,600 EGP,Mansoura,VIP,4.0
+A5245,C334,2025-12-14,Jeans,1.0,600 EGP,Cairo,New,4.0
+A5442,C231,2025-03-25,Jeans,-1.0,600 EGP,Giza,Returning,4.0
+A5722,C162,2025-09-15,Smart Watch,1.0,1200 EGP,Mansoura,New,4.0
+A5574,C174,2025-11-02,Bedding Set,1.0,700 EGP,Cairo,Returning,5.0
+A5000,C223,2025-10-13,Jeans,,600 EGP,Cairo,Returning,5.0
+A5539,C126,2025-04-05,Smart Watch,1.0,1200 EGP,Giza,New,4.0
+A5689,C243,2025-07-13,Perfume,1.0,650 EGP,Mansoura,New,3.0
+A5187,C154,2025-03-01,Jeans,1.0,600 EGP,Mansoura,New,4.0
+A5406,C194,2025-05-22,Jeans,3.0,600 EGP,Alexandria,New,4.0
+A5148,C406,2025-07-23,Bedding Set,1.0,700 EGP,Alexandria,Returning,5.0
+A5026,C270,2025-10-12,Sneakers,,800 EGP,giza,Returning,4.0
+A5461,C103,2025-06-12,Sneakers,1.0,800 EGP,mansoura,VIP,4.0
+A5670,C360,2025-01-22,Face Cream,2.0,280 EGP,Mansoura,Returning,5.0
+A5655,C410,2025-08-18,Bedding Set,1.0,700 EGP,Cairo,Returning,5.0
+A5059,C324,2025-03-09,Jeans,1.0,600 EGP,Giza,New,4.0
+A5714,C201,2025-08-01,Perfume,2.0,650 EGP,Cairo,Returning,3.0
+A5326,C303,2025-10-11,Bedding Set,3.0,700 EGP,,Returning,4.0
+A5424,C153,2025-08-07,Face Cream,1.0,280 EGP,alexandria,Returning,3.0
+A5720,C373,2025-03-02,Perfume,1.0,650 EGP,Alexandria,New,3.0
+A5477,C303,2025-04-18,Desk Lamp,1.0,320 EGP,Alexandria,Returning,
+A5043,C110,2025-05-28,Headphones,1.0,450 EGP,Cairo,Returning,3.0
+A5661,C176,2025-02-21,Headphones,1.0,450 EGP,Mansoura,Returning,3.0
+A5635,C259,2025-10-24,Headphones,1.0,450 EGP,Mansoura,VIP,3.0
+A5528,C296,2025-12-24,Face Cream,2.0,280 EGP,Cairo,New,4.0
+A5483,C350,2025-12-15,Jeans,1.0,600 EGP,Giza,Returning,4.0
+A5218,C353,2025-06-22,Jeans,1.0,600 EGP,Giza,Returning,4.0
+A5371,C301,2025-01-05,Jeans,2.0,600 EGP,Alexandria,New,3.0
+A5758,C239,2025-09-29,Desk Lamp,1.0,320 EGP,Cairo,New,5.0
+A5609,C235,2025-09-21,Jeans,2.0,600 EGP,Alexandria,Returning,3.0
+A5485,C377,2025-10-20,Smart Watch,2.0,1200 EGP,Alexandria,New,
+A5125,C356,2025-02-20,Jeans,1.0,600 EGP,Alexandria,New,4.0
+A5768,C164,2025-03-01,Jeans,1.0,600 EGP,Cairo,Returning,4.0
+A5061,C382,2025-05-25,Smart Watch,1.0,1200 EGP,Cairo,Returning,4.0
+A5081,C249,2025-11-15,Smart Watch,1.0,1200 EGP,Cairo,New,5.0
+A5680,C391,2025-12-09,Perfume,1.0,650 EGP,Mansoura,Returning,
+A5324,C108,2025-04-08,Sneakers,2.0,800 EGP,Cairo,New,4.0
+A5385,C147,2025-10-12,Desk Lamp,2.0,320 EGP,Cairo,New,4.0
+A5224,C348,2025-06-13,Sneakers,3.0,800 EGP,Giza,VIP,4.0
+A5056,C417,2025-11-17,Face Cream,2.0,280 EGP,Cairo,VIP,
+A5019,C214,2025-12-08,Bedding Set,1.0,700 EGP,cairo,Returning,4.0
+A5788,C156,2025-08-13,Sneakers,2.0,800 EGP,Cairo,New,4.0
+A5086,C110,2025-06-25,Perfume,1.0,650 EGP,Cairo,Returning,
+A5649,C140,2025-05-03,Jeans,1.0,600 EGP,Giza,VIP,3.0
+A5316,C271,2025-07-01,Perfume,1.0,650 EGP, Cairo ,Returning,4.0
+A5034,C166,2025-02-26,Bedding Set,,700 EGP,Alexandria,New,4.0
+A5138,C129,2025-09-07,Smart Watch,1.0,1200 EGP,,Returning,2.0
+A5588,C264,2025-10-01,Perfume,2.0,650 EGP,Giza,New,5.0
+A5498,C213,2025-03-12,Desk Lamp,1.0,320 EGP,Cairo,Returning,4.0
+A5538,C242,2025-10-14,Sneakers,2.0,800 EGP,Alexandria,New,1.0
+A5555,C398,2025-12-14,Headphones,2.0,450 EGP,cairo,Returning,1.0
+A5096,C351,2025-08-05,Headphones,1.0,450 EGP,Giza,Returning,5.0
+A5083,C389,2025-11-04,Face Cream,1.0,280 EGP,Mansoura,New,3.0
+A5446,C359,2025-01-29,Smart Watch,1.0,1200 EGP,Giza,Returning,3.0
+A5474,C190,2025-07-12,Bedding Set,3.0,700 EGP,,New,
+A5366,C253,2025-12-19,Sneakers,,800 EGP,Alexandria,New,4.0
+A5697,C400,2025-12-18,Bedding Set,1.0,700 EGP,Cairo,New,5.0
+A5585,C226,2025-07-20,Bedding Set,1.0,700 EGP,Giza,Returning,5.0
+A5770,C414,2025-02-15,Bedding Set,1.0,700 EGP,Alexandria,New,4.0
+A5760,C183,2025-03-22,Perfume,1.0,650 EGP,Cairo,New,5.0
+A5401,C259,2025-01-14,Face Cream,1.0,280 EGP,Mansoura,New,4.0
+A5759,C354,2025-09-12,Sneakers,1.0,800 EGP,Giza,New,4.0
+A5392,C414,2025-10-07,Jeans,2.0,600 EGP,Cairo,Returning,5.0
+A5771,C366,2025-12-06,Face Cream,1.0,280 EGP,Mansoura,Returning,4.0
+A5745,C298,2025-03-05,Sneakers,1.0,800 EGP,Cairo,New,4.0
+A5271,C252,2025-05-26,Smart Watch,1.0,1200 EGP,cairo,Returning,
+A5506,C118,2025-04-01,Jeans,2.0,600 EGP,Cairo,New,5.0
+A5341,C325,2025-05-17,Perfume,1.0,650 EGP,Alexandria,Returning,4.0
+A5434,C351,2025-08-15,Smart Watch,1.0,1200 EGP,Giza,VIP,4.0
+A5648,C315,2025-09-06,Sneakers,1.0,800 EGP,Cairo,New,4.0
+A5561,C365,2025-09-29,Jeans,1.0,600 EGP,Cairo,VIP,2.0
+A5207,C357,2025-03-25,Smart Watch,1.0,1200 EGP,Mansoura,VIP,5.0
+A5319,C175,2025-11-13,Desk Lamp,3.0,320 EGP, Cairo ,New,
+A5430,C155,2025-03-25,Sneakers,1.0,800 EGP,Cairo,VIP,4.0
+A5132,C118,2025-12-10,Jeans,1.0,600 EGP,Cairo,New,4.0
+A5050,C294,2025-01-24,Face Cream,2.0,280 EGP, Mansoura ,Returning,4.0
+A5238,C125,2025-04-20,Sneakers,1.0,800 EGP,Cairo,New,3.0
+A5564,C266,2025-11-30,Jeans,2.0,600 EGP,Cairo,Returning,3.0
+A5592,C181,2025-07-16,Sneakers,1.0,800 EGP,Cairo,New,4.0
+A5450,C314,2025-08-07,Desk Lamp,1.0,320 EGP,Giza,Returning,4.0
+A5031,C232,2025-08-18,Sneakers,-1.0,800 EGP,Giza,Returning,4.0
+A5121,C397,2025-10-16,Perfume,1.0,650 EGP,Giza,New,5.0
+A5211,C316,2025-04-02,Headphones,1.0,450 EGP,Alexandria,New,4.0
+A5351,C187,2025-08-08,Smart Watch,2.0,1200 EGP,,Returning,5.0
+A5454,C337,2025-07-21,Desk Lamp,3.0,320 EGP,Mansoura,Returning,4.0
+A5302,C140,2025-04-09,Desk Lamp,1.0,320 EGP,Giza,Returning,
+A5708,C417,2025-07-24,Desk Lamp,1.0,320 EGP,Cairo,New,4.0
+A5088,C267,2025-09-28,Perfume,2.0,650 EGP,Giza,VIP,5.0
+A5325,C395,2025-04-04,Headphones,2.0,450 EGP,Cairo,VIP,5.0
+A5323,C308,2025-09-01,Bedding Set,1.0,700 EGP,Giza,New,3.0
+A5255,C150,2025-10-30,Perfume,1.0,650 EGP,Cairo,New,2.0
+A5570,C176,2025-10-20,Face Cream,,280 EGP,Cairo,VIP,5.0
+A5545,C392,2025-12-04,Perfume,1.0,650 EGP,Alexandria,Returning,4.0
+A5550,C388,2025-03-23,Headphones,,450 EGP,Cairo,New,1.0
+A5359,C115,2025-10-24,Desk Lamp,1.0,320 EGP,Cairo,Returning,2.0
+A5051,C198,2025-02-25,Bedding Set,1.0,700 EGP,Giza,New,
+A5772,C361,2025-09-26,Sneakers,,800 EGP, Mansoura ,Returning,4.0
+A5102,C417,2025-01-08,Smart Watch,1.0,1200 EGP,Cairo,New,1.0
+A5195,C106,2025-04-05,Desk Lamp,1.0,320 EGP,Giza,VIP,5.0
+A5679,C304,2025-02-10,Perfume,1.0,650 EGP,Alexandria,New,5.0
+A5628,C133,2025-01-03,Jeans,1.0,600 EGP,Alexandria,Returning,5.0
+A5124,C367,2025-08-25,Desk Lamp,-1.0,320 EGP,Cairo,VIP,2.0
+A5404,C256,2025-04-23,Desk Lamp,1.0,320 EGP,Cairo,New,5.0
+A5730,C371,2025-01-27,Jeans,1.0,600 EGP,Giza,New,1.0
+A5287,C417,2025-04-19,Bedding Set,1.0,700 EGP, giza ,New,4.0
+A5047,C142,2025-05-13,Bedding Set,1.0,700 EGP,Alexandria,Returning,3.0
+A5725,C165,2025-04-15,Face Cream,-1.0,280 EGP,Cairo,Returning,5.0
+A5587,C398,2025-12-05,Smart Watch,2.0,1200 EGP,Giza,New,1.0
+A5607,C264,2025-07-25,Headphones,2.0,450 EGP,Cairo,Returning,5.0
+A5433,C267,2025-10-26,Bedding Set,2.0,700 EGP,Mansoura,New,4.0
+A5674,C258,2025-10-29,Jeans,2.0,600 EGP,Giza,New,2.0
+A5263,C306,2025-08-31,Desk Lamp,1.0,320 EGP,Cairo,Returning,5.0
+A5360,C375,2025-01-30,Jeans,1.0,600 EGP,Mansoura,Returning,4.0
+A5075,C406,2025-05-22,Perfume,1.0,650 EGP,Cairo,New,5.0
+A5466,C393,2025-12-04,Sneakers,1.0,800 EGP,Giza,New,3.0
+A5299,C405,2025-08-28,Smart Watch,1.0,1200 EGP,Mansoura,New,3.0
+A5534,C385,2025-01-16,Perfume,1.0,650 EGP,Cairo,New,5.0
+A5584,C193,2025-08-23,Headphones,3.0,450 EGP,Mansoura,New,5.0
+A5493,C303,2025-09-03,Face Cream,1.0,280 EGP,Mansoura,VIP,5.0
+A5527,C375,2025-09-21,Headphones,2.0,450 EGP,Cairo,VIP,4.0
+A5168,C386,2025-10-02,Perfume,1.0,650 EGP,Alexandria,New,4.0
